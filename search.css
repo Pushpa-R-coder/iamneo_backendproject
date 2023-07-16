@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+#searchbar{
+  padding-left:10px;
+  border-radius: 10px;
+  padding:5px;
+}  
+.hide {
+display: none;
+}
+	

@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.card {
+border:5px;
+border-style: solid;
+border-color: black;
+}
+.section1{
+text-align: center;
+}
+.float-right{
+padding:2px;
+}
+h1{
+color:black;
+}
+	
